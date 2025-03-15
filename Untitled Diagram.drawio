@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="sdbWK73cE8uQ8-mOUsc3-63" value="Flowchart Diagram" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="1300" height="1050" as="geometry" />
+          <mxGeometry x="10" width="1300" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="sdbWK73cE8uQ8-mOUsc3-64" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sdbWK73cE8uQ8-mOUsc3-63">
           <mxGeometry y="30" width="1300" height="30" as="geometry" />
@@ -43,7 +43,7 @@
             <mxRectangle width="349" height="990" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sdbWK73cE8uQ8-mOUsc3-72" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="sdbWK73cE8uQ8-mOUsc3-69">
+        <mxCell id="sdbWK73cE8uQ8-mOUsc3-72" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontStyle=1" vertex="1" parent="sdbWK73cE8uQ8-mOUsc3-69">
           <mxGeometry x="589" width="336" height="990" as="geometry">
             <mxRectangle width="336" height="990" as="alternateBounds" />
           </mxGeometry>
