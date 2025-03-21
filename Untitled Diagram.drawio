@@ -171,10 +171,10 @@
         <mxCell id="MjWEMbtQi72xysVVU44_-1" value="sistem&amp;nbsp;&lt;div&gt;OpenMRS&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="390" y="90" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MjWEMbtQi72xysVVU44_-2" value="Apoteker" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MjWEMbtQi72xysVVU44_-2" value="Staf Farmasi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MjWEMbtQi72xysVVU44_-3" value="Dokter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MjWEMbtQi72xysVVU44_-3" value="Tenaga Medis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MjWEMbtQi72xysVVU44_-4" value="Pasien" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -224,10 +224,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5Db0q2r6LOr5j_wvW1Uq-1" value="Apoteker" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5Db0q2r6LOr5j_wvW1Uq-1" value="Staf Farmasi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5Db0q2r6LOr5j_wvW1Uq-2" value="Dokter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5Db0q2r6LOr5j_wvW1Uq-2" value="Tenaga Medis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Db0q2r6LOr5j_wvW1Uq-3" value="Pasien" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -248,10 +248,10 @@
             <mxPoint x="390" y="-180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Db0q2r6LOr5j_wvW1Uq-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="5Db0q2r6LOr5j_wvW1Uq-4" edge="1">
+        <mxCell id="5Db0q2r6LOr5j_wvW1Uq-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="-80" as="sourcePoint" />
-            <mxPoint x="330" y="-130" as="targetPoint" />
+            <mxPoint x="280" y="-97.89" as="sourcePoint" />
+            <mxPoint x="404.2229123600034" y="-160.0014561800018" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5Db0q2r6LOr5j_wvW1Uq-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.273;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="5Db0q2r6LOr5j_wvW1Uq-4" edge="1">
@@ -371,11 +371,11 @@
             <mxPoint x="440" y="-82" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Db0q2r6LOr5j_wvW1Uq-39" value="Data&amp;nbsp;&lt;div&gt;Diagnosis&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="280" y="-132" width="80" height="40" as="geometry" />
+        <mxCell id="5Db0q2r6LOr5j_wvW1Uq-39" value="Data&amp;nbsp;&lt;div&gt;Diagnosis&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-20;" parent="1" vertex="1">
+          <mxGeometry x="280" y="-160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5Db0q2r6LOr5j_wvW1Uq-44" value="Data Obat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="290" y="-60" width="80" height="30" as="geometry" />
+        <mxCell id="5Db0q2r6LOr5j_wvW1Uq-44" value="Data Obat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-40;" parent="1" vertex="1">
+          <mxGeometry x="290" y="-70" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tkiZW4NX8I9xGGEx-t-U-2" value="Laporan&lt;div&gt;Hasil DIagnosis&lt;/div&gt;&lt;div&gt;Laporan&amp;nbsp;&lt;/div&gt;&lt;div&gt;Jenis Obat&lt;/div&gt;&lt;div&gt;Laporan Stok Obat&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="270" y="90" width="120" height="90" as="geometry" />
@@ -388,10 +388,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NXCw804AyJOTTKtbWgL3-1" value="Apoteker" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NXCw804AyJOTTKtbWgL3-1" value="Staf Farmasi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NXCw804AyJOTTKtbWgL3-2" value="Dokter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NXCw804AyJOTTKtbWgL3-2" value="Tenaga Medis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NXCw804AyJOTTKtbWgL3-3" value="Pasien" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -400,7 +400,7 @@
         <mxCell id="NXCw804AyJOTTKtbWgL3-4" value="1.2&lt;div&gt;Mater Data&lt;/div&gt;&lt;div&gt;Tenaga Medis&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="350" y="170" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NXCw804AyJOTTKtbWgL3-5" value="1.3&lt;div&gt;Master Data&lt;/div&gt;&lt;div&gt;Obat&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="NXCw804AyJOTTKtbWgL3-5" value="1.3&lt;div&gt;Master data&lt;/div&gt;&lt;div&gt;Staf Farmasi&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="350" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NXCw804AyJOTTKtbWgL3-6" value="1.1&lt;div&gt;Master Data&lt;/div&gt;&lt;div&gt;Pasien&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -460,6 +460,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="295" y="150" as="sourcePoint" />
             <mxPoint x="345" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="100" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NXCw804AyJOTTKtbWgL3-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NXCw804AyJOTTKtbWgL3-2" edge="1">
@@ -492,6 +495,15 @@
             <mxPoint x="485" y="99.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="K-x22kzAC5yQ6bhD7kM4-1" value="Data Pasien" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="78" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K-x22kzAC5yQ6bhD7kM4-3" value="Data Diagnosis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K-x22kzAC5yQ6bhD7kM4-4" value="Data Obat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="300" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -500,10 +512,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gebGo5N5xyTWlQOMeQe2-1" value="Apoteker" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gebGo5N5xyTWlQOMeQe2-1" value="Staf Farmasi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gebGo5N5xyTWlQOMeQe2-3" value="Dokter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gebGo5N5xyTWlQOMeQe2-3" value="Tenaga Medis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gebGo5N5xyTWlQOMeQe2-4" value="Pasien" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -563,6 +575,15 @@
         <mxCell id="ioyJ1ZkQwq_BL4vhj7RE-3" value="Laporan Hasil Diagnosis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="10" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gLDjtqN9kaM7rk0VWWEf-1" value="Data Diagnosis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="88" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gLDjtqN9kaM7rk0VWWEf-2" value="Jenis Obat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="128" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gLDjtqN9kaM7rk0VWWEf-3" value="Stok Obat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="230" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -571,10 +592,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1COX589H2tufRIBR2Yir-2" value="Apoteker" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1COX589H2tufRIBR2Yir-2" value="Staf Farmasi" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1COX589H2tufRIBR2Yir-3" value="Dokter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="1COX589H2tufRIBR2Yir-3" value="Tenaga Medis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1COX589H2tufRIBR2Yir-4" value="Pasien" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -664,10 +685,10 @@
             <mxPoint x="340" y="78" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gh30dQ5CD_k9gV9R3_7w-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="dCU64CBjmw58sO_HUvmU-2" edge="1">
+        <mxCell id="Gh30dQ5CD_k9gV9R3_7w-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="78" as="sourcePoint" />
-            <mxPoint x="340" y="78" as="targetPoint" />
+            <mxPoint x="220" y="77" as="sourcePoint" />
+            <mxPoint x="340" y="239" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Gh30dQ5CD_k9gV9R3_7w-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -684,6 +705,21 @@
               <mxPoint x="490" y="250" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vwp1w9WhJ7nQHI_O6ENT-1" value="Data Pasien" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="48" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vwp1w9WhJ7nQHI_O6ENT-2" value="Data Pasien" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vwp1w9WhJ7nQHI_O6ENT-3" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Data Pasien&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vwp1w9WhJ7nQHI_O6ENT-5" value="Data Diagnosis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="158" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vwp1w9WhJ7nQHI_O6ENT-6" value="Data Obat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="240" y="218" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
